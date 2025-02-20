@@ -7,9 +7,14 @@ Welcome to the **Pandas Tutorial & Resources** repository! This repository conta
 - [Repository Structure](#repository-structure)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
+<div align="center">
+
+> # [User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)  👀
+
+</div>
+
 
 ## 🧐 Introduction
 Pandas is one of the most powerful and widely used Python libraries for data analysis and manipulation. This repository provides well-structured resources that cover everything from basic operations to advanced techniques.
