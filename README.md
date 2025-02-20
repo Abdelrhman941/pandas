@@ -1,4 +1,4 @@
-# 📊 Pandas Tutorial & Resources
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%F0%9F%93%8A+Pandas+Tutorial+%26+Resources)](https://git.io/typing-svg)
 
 Welcome to the **Pandas Tutorial & Resources** repository! This repository contains structured tutorials, datasets, and examples to help you master the Pandas library for data analysis and manipulation in Python.
 
