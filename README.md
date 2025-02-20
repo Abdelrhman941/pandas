@@ -42,14 +42,6 @@ pip install pandas
 
 If you need additional libraries for advanced functionalities, check the specific tutorial sections.
 
-## 🚀 Usage
-Clone the repository and explore the different sections:
-
-```bash
-git clone https://github.com/Abdelrhman941/pandas.git
-cd pandas
-```
-
 You can start with the basics:
 
 ```python
@@ -68,9 +60,6 @@ We welcome contributions! If you'd like to add new examples, improve documentati
 2. Create a new branch (`feature-branch`)
 3. Commit your changes
 4. Push to your fork and submit a pull request
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
