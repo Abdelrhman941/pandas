@@ -15,7 +15,6 @@ Welcome to the **Pandas Tutorial & Resources** repository! This repository conta
 
 </div>
 
-
 ## 🧐 Introduction
 Pandas is one of the most powerful and widely used Python libraries for data analysis and manipulation. This repository provides well-structured resources that cover everything from basic operations to advanced techniques.
 
